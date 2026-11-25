@@ -36,7 +36,6 @@ def lag_tekst(dag, dato):
         f"I dag, {dato.day}. {MÅNEDER[dato.month - 1]}, er det {navn}.",
         "\n".join(detaljer),
         dag["wikipedia"],
-        "#primstav #merkedag",
     ]
     return "\n\n".join(a for a in avsnitt if a)
 
