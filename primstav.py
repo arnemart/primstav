@@ -34,6 +34,7 @@ def lag_tekst(dag, dato):
         detaljer.append("Merke på primstaven: " + ", ".join(dag["merker"]))
     avsnitt = [
         f"I dag, {dato.day}. {MÅNEDER[dato.month - 1]}, er det {navn}.",
+        dag.get("snu"),
         "\n".join(detaljer),
         dag["wikipedia"],
     ]

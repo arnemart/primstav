@@ -239,7 +239,8 @@
     "navn": [
       "Bendiksmesse",
       "Bendik/Bent prøvesvin",
-      "vårjevndøgn", "jamvår"
+      "vårjevndøgn",
+      "jamvår"
     ],
     "merker": [
       "Halvt kors"
@@ -273,7 +274,8 @@
       "Løvtre",
       "gren"
     ],
-    "wikipedia": "https://no.wikipedia.org/wiki/Sommermål"
+    "wikipedia": "https://no.wikipedia.org/wiki/Sommermål",
+    "snu": "Snu primstaven! Fra i dag gjelder sommersiden, fram til 13. oktober."
   },
   {
     "dato": "04-16",
@@ -762,7 +764,8 @@
       "(pave)hanske",
       "vott"
     ],
-    "wikipedia": "https://no.wikipedia.org/wiki/Vinternettene"
+    "wikipedia": "https://no.wikipedia.org/wiki/Vinternettene",
+    "snu": "Snu primstaven! Fra i dag gjelder vintersiden, fram til 13. april."
   },
   {
     "dato": "10-18",
