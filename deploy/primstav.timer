@@ -1,0 +1,9 @@
+[Unit]
+Description=Post dagens merkedag fra primstaven hver morgen
+
+[Timer]
+OnCalendar=*-*-* 08:00:00 Europe/Oslo
+Persistent=true
+
+[Install]
+WantedBy=timers.target

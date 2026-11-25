@@ -1,0 +1,1040 @@
+[
+  {
+    "dato": "01-01",
+    "navn": [
+      "Nyttårsdag",
+      "åttendedagen"
+    ],
+    "merker": [
+      "Solhjul",
+      "timeglass",
+      "kirke"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Nyttårsdag"
+  },
+  {
+    "dato": "01-06",
+    "navn": [
+      "Helligtrekongersdag",
+      "trettendedagen"
+    ],
+    "merker": [
+      "Tre kors",
+      "tre kroner",
+      "tre menn"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Helligtrekongersdag"
+  },
+  {
+    "dato": "01-07",
+    "navn": [
+      "Eldbjørgdag",
+      "ildbergingsdag",
+      "St. Knut"
+    ],
+    "merker": [
+      "Kors"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Eldbjørgdag"
+  },
+  {
+    "dato": "01-11",
+    "navn": [
+      "Brettemesse",
+      "brokkismesse",
+      "brykkesmesse"
+    ],
+    "merker": [
+      "Øks",
+      "hest"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Brettemesse"
+  },
+  {
+    "dato": "01-12",
+    "navn": [
+      "Midtvinterdag",
+      "hökunótt"
+    ],
+    "merker": [
+      "Prikker (snø)"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Midtvinterdag"
+  },
+  {
+    "dato": "01-13",
+    "navn": [
+      "Tjuendedagen",
+      "Knutsdag",
+      "avfaredag",
+      "gamle nyttårsdag"
+    ],
+    "merker": [
+      "Øks",
+      "klokke",
+      "tønne",
+      "omvendt drikkehorn"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Tjuendedagen"
+  },
+  {
+    "dato": "01-14",
+    "navn": [
+      "Midtvinterdagen (hedensk jul)"
+    ],
+    "merker": [],
+    "wikipedia": null
+  },
+  {
+    "dato": "01-17",
+    "navn": [
+      "Antonsmesse"
+    ],
+    "merker": [
+      "Kors",
+      "gris"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Antonsmesse"
+  },
+  {
+    "dato": "01-20",
+    "navn": [
+      "Brødremesse"
+    ],
+    "merker": [
+      "Øks",
+      "to piler i kors"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Brødremesse"
+  },
+  {
+    "dato": "01-25",
+    "navn": [
+      "Pålsmesse",
+      "Pål med bogen",
+      "Pål skytter"
+    ],
+    "merker": [
+      "Bue",
+      "sverd",
+      "fisk"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Pålsmesse"
+  },
+  {
+    "dato": "02-02",
+    "navn": [
+      "Kyndelsmesse",
+      "kindermesse",
+      "kjærmesse",
+      "lysenes messe",
+      "missa candelarum"
+    ],
+    "merker": [
+      "Syvarmet lysestake",
+      "lilje",
+      "kronet hode"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Kyndelsmesse"
+  },
+  {
+    "dato": "02-03",
+    "navn": [
+      "Blåsmesse",
+      "Blåsius"
+    ],
+    "merker": [
+      "Horn",
+      "båt for fulle seil"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Blåsmesse"
+  },
+  {
+    "dato": "02-05",
+    "navn": [
+      "Ågotsmesse",
+      "musedagen"
+    ],
+    "merker": [
+      "Mus",
+      "kors"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Ågotsmesse"
+  },
+  {
+    "dato": "02-22",
+    "navn": [
+      "Peters stol",
+      "Per varmestein",
+      "Per heitstein"
+    ],
+    "merker": [
+      "Nøkkel",
+      "stein"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Peters_stol"
+  },
+  {
+    "dato": "02-24",
+    "navn": [
+      "Mattismesse vår",
+      "Mattis"
+    ],
+    "merker": [
+      "Øks",
+      "(omvendt) «M»"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Mattismesse_vår"
+  },
+  {
+    "dato": "03-09",
+    "navn": [
+      "De førti riddere"
+    ],
+    "merker": [
+      "Halv sol"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/De_førti_riddere"
+  },
+  {
+    "dato": "03-12",
+    "navn": [
+      "Gregormesse",
+      "Gregoriusdagen",
+      "Gregusmesse",
+      "Groårsmesse"
+    ],
+    "merker": [
+      "Fugl (due)"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Gregormesse"
+  },
+  {
+    "dato": "03-17",
+    "navn": [
+      "Gjertrudsmesse",
+      "Gjertrudsdagen"
+    ],
+    "merker": [
+      "Rokkesnelle",
+      "lilje",
+      "bjørkekvist",
+      "kapell"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Gjertrudsmesse"
+  },
+  {
+    "dato": "03-18",
+    "navn": [
+      "Petrus martyr",
+      "Per pekk i vatn"
+    ],
+    "merker": [
+      "Pigghakke"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Petrus_martyr"
+  },
+  {
+    "dato": "03-21",
+    "navn": [
+      "Bendiksmesse",
+      "Bendik/Bent prøvesvin",
+      "vårjevndøgn", "jamvår"
+    ],
+    "merker": [
+      "Halvt kors"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Bendiksmesse"
+  },
+  {
+    "dato": "03-25",
+    "navn": [
+      "Maria bebudelsesdag",
+      "vårfrumesse",
+      "Marimesse",
+      "vårmesse"
+    ],
+    "merker": [
+      "Krone",
+      "kvinnefigur",
+      "hode",
+      "tre"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Maria_bebudelsesdag"
+  },
+  {
+    "dato": "04-14",
+    "navn": [
+      "Sommermål",
+      "sommerdag",
+      "sommernatt"
+    ],
+    "merker": [
+      "Løvtre",
+      "gren"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Sommermål"
+  },
+  {
+    "dato": "04-16",
+    "navn": [
+      "Magnusmesse",
+      "tredjedag sommer"
+    ],
+    "merker": [
+      "Pil",
+      "øks",
+      "halvt kors"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Magnusmesse"
+  },
+  {
+    "dato": "04-23",
+    "navn": [
+      "Jørgensdag"
+    ],
+    "merker": [
+      "Kors",
+      "hest"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Jørgensdag"
+  },
+  {
+    "dato": "04-25",
+    "navn": [
+      "Markusmesse",
+      "Markusdagen",
+      "store gangdag"
+    ],
+    "merker": [
+      "Blad på en kvist",
+      "fjærpenn",
+      "fugl"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Markusmesse"
+  },
+  {
+    "dato": "05-01",
+    "navn": [
+      "Gauksmesse",
+      "lille gangdag"
+    ],
+    "merker": [
+      "Gjøk",
+      "dobbelt kors"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Gauksmesse"
+  },
+  {
+    "dato": "05-03",
+    "navn": [
+      "Korsmesse vår"
+    ],
+    "merker": [
+      "Stort kors"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Korsmesse_vår"
+  },
+  {
+    "dato": "05-15",
+    "navn": [
+      "Hallvardsmesse",
+      "Hallvardsvaka",
+      "hallsok"
+    ],
+    "merker": [
+      "Møllestein",
+      "prikker (såkorn)"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Hallvardsmesse"
+  },
+  {
+    "dato": "05-18",
+    "navn": [
+      "Eriksmesse"
+    ],
+    "merker": [
+      "Aks",
+      "sverd",
+      "krone"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Eriksmesse"
+  },
+  {
+    "dato": "05-22",
+    "navn": [
+      "Bjørnevåk"
+    ],
+    "merker": [
+      "Bjørnefot"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Bjørnevåk"
+  },
+  {
+    "dato": "05-25",
+    "navn": [
+      "Urbanus"
+    ],
+    "merker": [
+      "Møkkagreip"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Urbanus"
+  },
+  {
+    "dato": "06-03",
+    "navn": [
+      "Rasmusdagen",
+      "skoklefallsdagen"
+    ],
+    "merker": [
+      "Bor"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Rasmusdagen"
+  },
+  {
+    "dato": "06-08",
+    "navn": [
+      "Medardus og Gilardus"
+    ],
+    "merker": [
+      "Fiskekrok"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Medardus_og_Gilardus"
+  },
+  {
+    "dato": "06-09",
+    "navn": [
+      "Kolumbamesse",
+      "Kolbjørn med laksen"
+    ],
+    "merker": [
+      "Fisk"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Kolumbamesse"
+  },
+  {
+    "dato": "06-17",
+    "navn": [
+      "Botolvsmesse",
+      "botsok"
+    ],
+    "merker": [
+      "Bispestav",
+      "kors"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Botolvsmesse"
+  },
+  {
+    "dato": "06-21",
+    "navn": [
+      "Sommersolverv"
+    ],
+    "merker": [
+      "Sol"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Sommersolverv"
+  },
+  {
+    "dato": "06-22",
+    "navn": [
+      "De ti tusen riddere",
+      "de ti tusen martyrer"
+    ],
+    "merker": [
+      "Timeglass"
+    ],
+    "wikipedia": null
+  },
+  {
+    "dato": "06-24",
+    "navn": [
+      "Sankthans",
+      "Jonsmesse",
+      "Jonsok"
+    ],
+    "merker": [
+      "Sol",
+      "timeglass"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Sankthans"
+  },
+  {
+    "dato": "06-29",
+    "navn": [
+      "Petersmesse",
+      "Persok",
+      "Peter med gullnøkkelen"
+    ],
+    "merker": [
+      "Nøkkel",
+      "blomst"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Petersmesse"
+  },
+  {
+    "dato": "07-02",
+    "navn": [
+      "Syftesok"
+    ],
+    "merker": [
+      "Bispestav"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Syftesok"
+  },
+  {
+    "dato": "07-08",
+    "navn": [
+      "Tredjevaka",
+      "Kjell fut",
+      "Kjell sviebygg",
+      "Seljemannamesse",
+      "Sunniva Virginis"
+    ],
+    "merker": [
+      "Ljå"
+    ],
+    "wikipedia": null
+  },
+  {
+    "dato": "07-10",
+    "navn": [
+      "Knutsmesse",
+      "knutsok",
+      "Knut med ljåen",
+      "Kong Knut"
+    ],
+    "merker": [
+      "Krone",
+      "rive",
+      "ljå"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Knutsmesse"
+  },
+  {
+    "dato": "07-12",
+    "navn": [
+      "Kari med riva"
+    ],
+    "merker": [
+      "Rive"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Kari_med_riva"
+  },
+  {
+    "dato": "07-14",
+    "navn": [
+      "Midtsommerdag"
+    ],
+    "merker": [
+      "Sol",
+      "tre"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Midtsommerdag"
+  },
+  {
+    "dato": "07-20",
+    "navn": [
+      "Marit Vassause",
+      "Margretemesse",
+      "Mari(t)messe"
+    ],
+    "merker": [
+      "Hjul",
+      "«M»",
+      "kors med glorie"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Marit_Vassause"
+  },
+  {
+    "dato": "07-22",
+    "navn": [
+      "Mari stol",
+      "magdalidagen",
+      "magdalimesse"
+    ],
+    "merker": [
+      "Krone med kors",
+      "beger"
+    ],
+    "wikipedia": null
+  },
+  {
+    "dato": "07-25",
+    "navn": [
+      "Jakobsmesse",
+      "Jakob våthatt"
+    ],
+    "merker": [
+      "Kors",
+      "sverd",
+      "hatt"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Jakobsmesse"
+  },
+  {
+    "dato": "07-29",
+    "navn": [
+      "Olsok",
+      "Olafsvaka"
+    ],
+    "merker": [
+      "Øks (Olavsøks eller Olavsbile)"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Olsok"
+  },
+  {
+    "dato": "08-01",
+    "navn": [
+      "Peters lenker",
+      "Peder vindfells dag",
+      "Per vinkel"
+    ],
+    "merker": [
+      "Nøkkel"
+    ],
+    "wikipedia": null
+  },
+  {
+    "dato": "08-03",
+    "navn": [
+      "Vesle olsok",
+      "Olsok siare",
+      "Translatio Olavi"
+    ],
+    "merker": [
+      "Øks (mindre enn olsokøksa)"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Vesle_olsok"
+  },
+  {
+    "dato": "08-10",
+    "navn": [
+      "Larsok",
+      "Lavransvaka"
+    ],
+    "merker": [
+      "Rist"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Larsok"
+  },
+  {
+    "dato": "08-15",
+    "navn": [
+      "Marimesse førre",
+      "våre frue dyre",
+      "Marias himmelfart"
+    ],
+    "merker": [
+      "Krone eller kvinnefigur"
+    ],
+    "wikipedia": null
+  },
+  {
+    "dato": "08-24",
+    "navn": [
+      "Barsok",
+      "Bartholomeusmesse",
+      "bardonsok",
+      "Berdon bukkekniv",
+      "Bertel brytestrå"
+    ],
+    "merker": [
+      "Øks",
+      "kniv eller et kors"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Barsok"
+  },
+  {
+    "dato": "08-29",
+    "navn": [
+      "Vergismesse",
+      "Johannes halshogg"
+    ],
+    "merker": [
+      "Sverd (verge)"
+    ],
+    "wikipedia": null
+  },
+  {
+    "dato": "09-01",
+    "navn": [
+      "Eidismesse",
+      "Kvernknarren"
+    ],
+    "merker": [
+      "Kvernstein"
+    ],
+    "wikipedia": null
+  },
+  {
+    "dato": "09-08",
+    "navn": [
+      "Marimesse siare",
+      "vår frue siare",
+      "morsmesse"
+    ],
+    "merker": [
+      "Krone",
+      "«M»",
+      "sauesaks"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Marimesse_siare"
+  },
+  {
+    "dato": "09-14",
+    "navn": [
+      "Korsmesse høst"
+    ],
+    "merker": [
+      "Kors"
+    ],
+    "wikipedia": null
+  },
+  {
+    "dato": "09-21",
+    "navn": [
+      "Mattismesse høst",
+      "Mattheusmesse",
+      "Mattisdag",
+      "høstjevndøgn"
+    ],
+    "merker": [
+      "Øks"
+    ],
+    "wikipedia": null
+  },
+  {
+    "dato": "09-29",
+    "navn": [
+      "Mikkelsmesse",
+      "mikeli"
+    ],
+    "merker": [
+      "Lur",
+      "vekt"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Mikkelsmesse"
+  },
+  {
+    "dato": "10-04",
+    "navn": [
+      "St. Frans"
+    ],
+    "merker": [
+      "Halvkors"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/St._Frans"
+  },
+  {
+    "dato": "10-07",
+    "navn": [
+      "Britemesse"
+    ],
+    "merker": [
+      "Bok",
+      "hus"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Britemesse"
+  },
+  {
+    "dato": "10-09",
+    "navn": [
+      "Dinesmesse",
+      "Deinets dag"
+    ],
+    "merker": [
+      "Fisk",
+      "flagg",
+      "bispestav"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Dinesmesse"
+  },
+  {
+    "dato": "10-14",
+    "navn": [
+      "Vinternettene",
+      "vinterdag",
+      "vinternatt",
+      "høstblot (førkristen)"
+    ],
+    "merker": [
+      "Tre uten blader",
+      "(pave)hanske",
+      "vott"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Vinternettene"
+  },
+  {
+    "dato": "10-18",
+    "navn": [
+      "Lukasmesse",
+      "Lukas våtmann"
+    ],
+    "merker": [
+      "Kors",
+      "okse",
+      "slaktebenk"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Lukasmesse"
+  },
+  {
+    "dato": "10-21",
+    "navn": [
+      "St. Ursula",
+      "jomfrudagen",
+      "11 000 jomfruer"
+    ],
+    "merker": [
+      "Kvinnefigurer",
+      "krone",
+      "pil",
+      "palme",
+      "ring"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Ursula"
+  },
+  {
+    "dato": "10-28",
+    "navn": [
+      "Simonsmesse",
+      "Simon og Judas",
+      "fyrebod"
+    ],
+    "merker": [
+      "Kors med to sett armer",
+      "spyd",
+      "gren med to blader"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Simonsmesse",
+    "merknad": "Fyrebod betyr varsel om vinteren som kommer."
+  },
+  {
+    "dato": "11-01",
+    "navn": [
+      "Allehelgensdag",
+      "helgemesse",
+      "aldermesse"
+    ],
+    "merker": [
+      "Kors",
+      "omvendt skip"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Allehelgensdag"
+  },
+  {
+    "dato": "11-02",
+    "navn": [
+      "Alle sjelers dag"
+    ],
+    "merker": [
+      "Menneskefigur",
+      "flere mennesker"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Alle_sjelers_dag"
+  },
+  {
+    "dato": "11-11",
+    "navn": [
+      "Mortensmesse",
+      "Mortensdag",
+      "bjørnedagen"
+    ],
+    "merker": [
+      "Gås",
+      "bispestav",
+      "drikkehorn"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Martinsdag",
+    "merknad": "Bjørnedagen fordi bjørnen går i hi."
+  },
+  {
+    "dato": "11-21",
+    "navn": [
+      "Marioffer (Presentatio Mariae)"
+    ],
+    "merker": [
+      "Hode med krone eller glorie"
+    ],
+    "wikipedia": null
+  },
+  {
+    "dato": "11-23",
+    "navn": [
+      "Klemetsmesse",
+      "båtsok",
+      "Klemet kirkebygger",
+      "Klemet saueskjærer"
+    ],
+    "merker": [
+      "Anker",
+      "kirke",
+      "pavekrone"
+    ],
+    "wikipedia": null
+  },
+  {
+    "dato": "11-25",
+    "navn": [
+      "Karimesse",
+      "Karenmesse",
+      "Kari med rokken"
+    ],
+    "merker": [
+      "Sverd",
+      "kors",
+      "hjul",
+      "rokk"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Karimesse"
+  },
+  {
+    "dato": "11-30",
+    "navn": [
+      "Andersmesse",
+      "Anders fisker"
+    ],
+    "merker": [
+      "Andreaskors (skjevt kors)",
+      "revesaks",
+      "fiskekrok"
+    ],
+    "wikipedia": null
+  },
+  {
+    "dato": "12-04",
+    "navn": [
+      "Barbromesse",
+      "Barbrodøgnet"
+    ],
+    "merker": [
+      "Kors",
+      "tårn",
+      "sverd",
+      "slede",
+      "rokk",
+      "«B»"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Barbromesse"
+  },
+  {
+    "dato": "12-06",
+    "navn": [
+      "Nilsmesse",
+      "Nikolausdagen",
+      "Nils Skinnikar"
+    ],
+    "merker": [
+      "Bispelue",
+      "bispestav",
+      "kors",
+      "«N»"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Nilsmesse"
+  },
+  {
+    "dato": "12-08",
+    "navn": [
+      "Maria unnfangelsesdag",
+      "vår frue ventedøgn"
+    ],
+    "merker": [
+      "Kronet hode",
+      "fiskenot",
+      "bok"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Maria_unnfangelsesdag"
+  },
+  {
+    "dato": "12-09",
+    "navn": [
+      "Anna matris Mariae",
+      "Anna røytrauv",
+      "(Anna) pissihose",
+      "Annadagen"
+    ],
+    "merker": [
+      "Kvinnehode",
+      "kanne",
+      "gren",
+      "bryggeutstyr"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Anna_matris_Mariae"
+  },
+  {
+    "dato": "12-13",
+    "navn": [
+      "Lussimesse",
+      "Lussinatt",
+      "Luciadagen"
+    ],
+    "merker": [
+      "Bål",
+      "lys",
+      "saks"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Lussimesse"
+  },
+  {
+    "dato": "12-21",
+    "navn": [
+      "Tomasmesse",
+      "Tomas brygger"
+    ],
+    "merker": [
+      "Tønne",
+      "kors",
+      "hånd med rette fingre"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Tomasmesse_I"
+  },
+  {
+    "dato": "12-22",
+    "navn": [
+      "Vintersolverv"
+    ],
+    "merker": [
+      "Sol"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Vintersolverv"
+  },
+  {
+    "dato": "12-23",
+    "navn": [
+      "Tollesmesse",
+      "Sjursmesse",
+      "lille julaften",
+      "vaskenatt"
+    ],
+    "merker": [
+      "Halvkors",
+      "sopelime"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Tollesmesse"
+  },
+  {
+    "dato": "12-25",
+    "navn": [
+      "Juledag",
+      "Natalis Christi"
+    ],
+    "merker": [
+      "Drikkehorn",
+      "kandelaber",
+      "tønne",
+      "sol"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Juledag"
+  },
+  {
+    "dato": "12-28",
+    "navn": [
+      "Barnedag",
+      "barnemesse"
+    ],
+    "merker": [
+      "Lite kors",
+      "(sverd)"
+    ],
+    "wikipedia": "https://no.wikipedia.org/wiki/Barnedag"
+  }
+]

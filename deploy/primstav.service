@@ -1,0 +1,15 @@
+[Unit]
+Description=Post dagens merkedag fra primstaven
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=mastodon
+WorkingDirectory=/home/mastodon/primstav
+EnvironmentFile=/home/mastodon/primstav/.env
+ExecStart=/usr/bin/python3 /home/mastodon/primstav/primstav.py
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=read-only
